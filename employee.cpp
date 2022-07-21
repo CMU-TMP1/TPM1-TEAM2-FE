@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout << "Hello guys, I am a employee" << endl;
+    cout << "1=2" << endl;
 }
